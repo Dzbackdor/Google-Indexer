@@ -1,5 +1,6 @@
 domains:
-  - domain: "https://vetcarepetshopconsult.com/"
+  - domain: "https://yourDomain.com/"
     service_account: "config/service-accounts/website1-service-account.json"
-    sitemap_url: "https://vetcarepetshopconsult.com/sitemap.xml"
+    sitemap_url: "https://yourDomain.com/sitemap.xml"
     daily_quota: 200
+
