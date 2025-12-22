@@ -1,6 +1,6 @@
 # Google Indexer
 
-Automation tool untuk submit URL ke **Google Indexing API** secara massal. Mendukung multiple domains dengan quota 200 URL/hari per domain.
+Automation tool untuk submit URL ke **Google Indexing API** secara massal. Mendukung multiple domains dengan quota 200 URL/hari.
 ---
 
 ## 🔑 CARA MENDAPATKAN SERVICE ACCOUNT
@@ -148,3 +148,4 @@ python src/main.py
 ```
 
 ---
+
